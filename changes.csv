@@ -1,4 +1,13 @@
 ﻿SKU,Product,Old price,New price,Change %,Action,Special price: was,Special price ends,Note
+MY000727,Compatible Konica Minolta TN512C Cyan Toner Cartridge (A33K452),61.29,46.79,-23.7,CHANGE,,,
+MY000730,Compatible Konica Minolta TN512Y Yellow Toner Cartridge (A33K252),61.19,53.19,-13.1,CHANGE,,,
+MY000729,Compatible Konica Minolta TN512M Magenta Toner Cartridge (A33K352),60.95,52.95,-13.1,CHANGE,,,
+MY000718,Compatible Konica Minolta TN324C Cyan Toner Cartridge (A8DA450),53.69,46.69,-13.0,CHANGE,,,
+MY000023,Compatible Brother LC-422XL High Capacity CMYK 4 Colour Ink Cartridge Multipack (LC422XLBK/ LC422XLC/ LC422XLM/ LC422XLY),40.09,36.09,-10.0,CHANGE,,,
+MY000724,Compatible Konica Minolta TN328M Magenta Toner Cartridge (AAV8350),74.95,77.95,4.0,CHANGE,,,
+MY000722,Compatible Konica Minolta TN328C Cyan Toner Cartridge (AAV8450),74.89,77.89,4.0,CHANGE,,,
+MY000721,Compatible Konica Minolta TN324Y Yellow Toner Cartridge (A8DA250),53.89,53.39,-0.9,CHANGE,,,
+MY000720,Compatible Konica Minolta TN324M Magenta Toner Cartridge (A8DA350),53.59,53.09,-0.9,CHANGE,,,
 MY000928,Compatible Xerox 006R04364 High Capacity Black Toner Cartridge,41.95,,,SKIP,,,supplier is out of stock
 MY000957,Compatible Xerox 106R01479 Yellow Toner Cartridge,15.95,,,SKIP,,,supplier is out of stock
 MY000958,Compatible Xerox 106R01480 Black Toner Cartridge,15.95,,,SKIP,,,supplier is out of stock
@@ -12,7 +21,7 @@ MY001092,Remanufactured Xerox 113R00726 High Capacity Black Toner Cartridge,43.9
 MY001041,Remanufactured Lexmark 12016SE Black Toner Cartridge,30.95,,,SKIP,,,supplier is out of stock
 MY000224,Compatible Canon 045Y Yellow Toner Cartridge (1239C002),20.95,,,SKIP,,,supplier code not found in the Aster list
 MY000217,Compatible Canon 045BK Black Toner Cartridge (1242C002),20.95,,,SKIP,,,supplier code not found in the Aster list
-MY000763,Compatible Kyocera TK-5140K Black Toner Cartridge (1T02NR0NL0),23.19,,,SKIP,,,supplier is out of stock; will be set to sold out
+MY000763,Compatible Kyocera TK-5140K Black Toner Cartridge (1T02NR0NL0),23.19,,,SKIP,,,supplier is out of stock
 MY000765,Compatible Kyocera TK-5140Y Yellow Toner Cartridge (1T02NRANL0),22.95,,,SKIP,,,supplier is out of stock
 MY000847,Compatible Kyocera TK5150K Black Toner Cartridge (1T02NS0NL0),29.09,,,SKIP,,,supplier is out of stock
 MY000849,Compatible Kyocera TK5150Y Yellow Toner Cartridge (1T02NSANL0),28.89,,,SKIP,,,supplier is out of stock
@@ -22,14 +31,14 @@ MY000756,Compatible Kyocera TK-3410 Black Toner Cartridge (1T0C0X0NL0),37.95,,,S
 MY000260,Compatible Canon 056L Black Toner Cartridge (3006C002),33.69,,,SKIP,,,supplier is out of stock
 MY000258,Compatible Canon 055H High Capacity Yellow Toner Cartridge (3017C002),42.09,,,SKIP,,,supplier is out of stock
 MY000254,Compatible Canon 055H High Capacity Black Toner Cartridge (3020C002),33.89,,,SKIP,,,supplier is out of stock
-MY000578,Compatible HP 305XL High Capacity Black Ink Cartridge (3YM62AE),24.95,,,SKIP,,,supplier is out of stock; will be set to sold out
+MY000578,Compatible HP 305XL High Capacity Black Ink Cartridge (3YM62AE),24.95,,,SKIP,,,supplier is out of stock
 MY001058,Remanufactured OKI 43324421 Yellow Toner Cartridge,24.95,,,SKIP,,,supplier is out of stock
 MY000851,Compatible OKI 43502002 High Capacity Black Toner Cartridge,19.95,,,SKIP,,,supplier is out of stock
 MY000852,Compatible OKI 43979102 Black Toner Cartridge,16.95,,,SKIP,,,supplier is out of stock
 MY000859,Compatible OKI 44469722 High Capacity Yellow Toner Cartridge,16.95,,,SKIP,,,supplier is out of stock
 MY001062,Remanufactured OKI 44643001 Yellow Toner Cartridge,40.95,,,SKIP,,,supplier is out of stock
 MY001065,Remanufactured OKI 44643004 Black Toner Cartridge,40.95,,,SKIP,,,supplier is out of stock
-MY000274,Compatible Canon 069BK Black Toner Cartridge (5094C002),41.19,,,SKIP,,,supplier is out of stock; will be set to sold out
+MY000274,Compatible Canon 069BK Black Toner Cartridge (5094C002),41.19,,,SKIP,,,supplier is out of stock
 MY001043,Remanufactured Lexmark 56F2000 Black Toner Cartridge,123.00,,,SKIP,,,supplier is out of stock
 MY001044,Remanufactured Lexmark 56F2H00 High Capacity Black Toner Cartridge,143.00,,,SKIP,,,supplier is out of stock
 MY001045,Remanufactured Lexmark 56F2X00 Extra High Capacity Black Toner Cartridge,179.00,,,SKIP,,,supplier is out of stock
@@ -41,7 +50,7 @@ MY001009,Remanufactured Dell NF556 High Capacity Yellow Toner Cartridge (593-101
 MY000387,Compatible Dell DRYXV High Capacity Black Toner Cartridge (593-11109),21.69,,,SKIP,,,supplier is out of stock
 MY000383,Compatible Dell 8PTH4 High Capacity Black Toner Cartridge (593-BBBJ),33.95,,,SKIP,,,supplier is out of stock
 MY000403,Compatible Dell RD80W Extra High Capacity Black Toner Cartridge (593-BBBU),16.95,,,SKIP,,,supplier is out of stock
-MY000373,Compatible Dell 593-BBLN Black Toner Cartridge,15.95,,,SKIP,,,supplier is out of stock; will be set to sold out
+MY000373,Compatible Dell 593-BBLN Black Toner Cartridge,15.95,,,SKIP,,,supplier is out of stock
 MY000386,Compatible Dell D9GY0 High Capacity Black Toner Cartridge (593-BBMH),21.95,,,SKIP,,,supplier is out of stock
 MY000397,Compatible Dell KNRMF Black Toner Cartridge (593-BBMM),18.95,,,SKIP,,,supplier is out of stock
 MY000290,Compatible Canon 075HBK High Capacity Black Toner Cartridge (6369C002),83.79,,,SKIP,,,supplier is out of stock
@@ -56,7 +65,7 @@ MY001030,Remanufactured HP 43X Black Toner Cartridge (C8543X),112.00,,,SKIP,,,su
 MY001012,Remanufactured HP 121A Black Toner Cartridge (C9700A),43.95,,,SKIP,,,supplier is out of stock
 MY001035,Remanufactured HP 827A Black Toner Cartridge (CF300A),74.95,,,SKIP,,,supplier is out of stock
 MY001039,Remanufactured HP 827A Yellow Toner Cartridge (CF302A),62.95,,,SKIP,,,supplier is out of stock
-MY000669,Compatible HP 654A Yellow Toner Cartridge (CF332A),51.69,,,SKIP,,,supplier is out of stock; will be set to sold out
+MY000669,Compatible HP 654A Yellow Toner Cartridge (CF332A),51.69,,,SKIP,,,supplier is out of stock
 MY000677,Compatible HP 656X High Capacity Black Toner Cartridge (CF460X),70.19,,,SKIP,,,supplier is out of stock
 MY000557,Compatible HP 301XL High Capacity Black Ink Cartridge (CH563EE),22.95,,,SKIP,,,supplier is out of stock
 MY000021,Compatible Brother DR-3600 Drum Unit (DR3600),25.95,,,SKIP,,,supplier is out of stock
@@ -100,11 +109,11 @@ MY000200,Compatible Brother TN821XXLBK Extra High Capacity Black Toner Cartridge
 MY000426,Compatible HP 103A Black Toner Cartridge (W1103A),16.95,,,SKIP,,,supplier is out of stock
 MY001028,Remanufactured HP 331A Black Toner Cartridge (W1331A),33.95,,,SKIP,,,supplier is out of stock
 MY000472,Compatible HP 149X High Capacity Black Toner Cartridge (W1490X),38.29,,,SKIP,,,supplier is out of stock
-MY000536,Compatible HP 219A Yellow Toner Cartridge (W2192A),51.95,,,SKIP,,,supplier is out of stock; will be set to sold out
+MY000536,Compatible HP 219A Yellow Toner Cartridge (W2192A),51.95,,,SKIP,,,supplier is out of stock
 MY000542,Compatible HP 220A Black Toner Cartridge (W2200A),38.09,,,SKIP,,,supplier is out of stock
 MY000546,Compatible HP 220A Yellow Toner Cartridge (W2202A),38.29,,,SKIP,,,supplier is out of stock
 MY000502,Compatible HP 207A Black Toner Cartridge (W2210A),27.59,,,SKIP,,,supplier is out of stock
-MY000076,Compatible Brother TN-241M Magenta Toner Cartridge (TN241M),16.95,,,SKIP,,,supplier is out of stock; will be set to sold out
+MY000076,Compatible Brother TN-241M Magenta Toner Cartridge (TN241M),16.95,,,SKIP,,,supplier is out of stock
 MY000929,Compatible Xerox 006R04365 High Capacity Cyan Toner Cartridge,37.95,,,SKIP,,,supplier is out of stock
 MY000943,Compatible Xerox 106R01331 Cyan Toner Cartridge,15.95,,,SKIP,,,supplier is out of stock
 MY000955,Compatible Xerox 106R01477 Cyan Toner Cartridge,15.95,,,SKIP,,,supplier is out of stock
@@ -159,13 +168,13 @@ MY000845,Compatible Kyocera TK5150 CMYK 4 Colour Toner Cartridge Multipack (1T02
 MY000816,Compatible Kyocera TK-5450 CMYK 4 Colour Toner Cartridge Multipack (1T0C0D0NL0/ 1T0C0DCNL0/ 1T0C0DBNL0/ 1T0C0DANL0),143.00,,,SKIP,,,supplier is out of stock
 MY000250,Compatible Canon 055 CMYK 4 Colour Toner Cartridge Multipack (3016C002/ 3015C002/ 3014C002/ 3013C002),133.00,,,SKIP,,,supplier is out of stock
 MY000273,Compatible Canon 069 CMYK 4 Colour Toner Cartridge Multipack (5094C002/ 5093C002/ 5092C002/ 5091C002),162.00,,,SKIP,,,supplier is out of stock
-MY000371,Compatible Dell 593-BBL CMYK 4 Colour Toner Cartridge Multipack (593-BBLN/ 593-BBLL/ 593-BBLZ/ 593-BBLV),46.69,,,SKIP,,,supplier is out of stock; will be set to sold out
+MY000371,Compatible Dell 593-BBL CMYK 4 Colour Toner Cartridge Multipack (593-BBLN/ 593-BBLL/ 593-BBLZ/ 593-BBLV),46.69,,,SKIP,,,supplier is out of stock
 MY000726,Compatible Konica Minolta TN512 CMYK 4 Colour Toner Cartridge Multipack (A33K152/ A33K252/ A33K352/ A33K452),238.00,,,SKIP,,,supplier is out of stock
 MY000717,Compatible Konica Minolta TN324 CMYK 4 Colour Toner Cartridge Multipack (A8DA150/ A8DA450/ A8DA350/ A8DA250),191.00,,,SKIP,,,supplier is out of stock
 MY000658,Compatible HP 649X / 648A CMYK 4 Colour Toner Cartridge Multipack (CE260X/ CE261A/ CE262A/ CE263A),158.00,,,SKIP,,,supplier is out of stock
-MY000670,Compatible HP 654X / 654A CMYK 4 Colour Toner Cartridge Multipack (CF330X/ CF331A/ CF333A/ CF332A),202.00,,,SKIP,,,supplier is out of stock; will be set to sold out
+MY000670,Compatible HP 654X / 654A CMYK 4 Colour Toner Cartridge Multipack (CF330X/ CF331A/ CF333A/ CF332A),202.00,,,SKIP,,,supplier is out of stock
 MY000833,Compatible Kyocera TK-580 CMYK 4 Colour Toner Cartridge Multipack (1T02KT0NL0/ 1T02KTCNL0/ 1T02KTBNL0/ 1T02KTANL0),82.29,,,SKIP,,,supplier is out of stock
-MY000533,Compatible HP 219A CMYK 4 Colour Toner Cartridge Multipack (W2190A/ W2191A/ W2193A/ W2192A),203.00,,,SKIP,,,supplier is out of stock; will be set to sold out
+MY000533,Compatible HP 219A CMYK 4 Colour Toner Cartridge Multipack (W2190A/ W2191A/ W2193A/ W2192A),203.00,,,SKIP,,,supplier is out of stock
 MY000543,Compatible HP 220A CMYK 4 Colour Toner Cartridge Multipack (W2200A/ W2201A/ W2203A/ W2202A),150.00,,,SKIP,,,supplier is out of stock
 MY000503,Compatible HP 207A CMYK 4 Colour Toner Cartridge Multipack (W2210A/ W2211A/ W2213A/ W2212A),105.00,,,SKIP,,,supplier is out of stock
 MY000796,Compatible Kyocera TK-5370 CMYK Toner Cartridges Multipack (1T02YJ0NL0/ 1T02YJCNL0/ 1T02YJBNL0/ 1T02YJANL0),127.00,,,SKIP,,,supplier is out of stock
@@ -176,7 +185,7 @@ MY001036,Remanufactured HP 827A CMYK 4 Colour Toner Cartridge Multipack (CF300A/
 MY001066,Remanufactured Samsung CLT-503L CMYK 4 Colour Toner Cartridge Multipack (SU147A/ SU014A/ SU281A/ SU491A),248.00,,,SKIP,,,supplier is out of stock
 MY000563,Compatible HP 303XL High Capacity Black & Tri-Colour Ink Cartridge Multipack (T6N04AE / T6N03AE),51.69,,,SKIP,,,supplier is out of stock
 MY000571,Compatible HP 304XL High Capacity Black & Tri-Colour Ink Cartridge Multipack (N9K08AE / N9K07AE),35.39,,,SKIP,,,supplier is out of stock
-MY000580,Compatible HP 305XL High Capacity Black & Tri-Colour Ink Cartridge Multipack (3YM62AE / 3YM63AE),44.59,,,SKIP,,,supplier is out of stock; will be set to sold out
+MY000580,Compatible HP 305XL High Capacity Black & Tri-Colour Ink Cartridge Multipack (3YM62AE / 3YM63AE),44.59,,,SKIP,,,supplier is out of stock
 MY000654,Compatible HP 62XL High Capacity Black & Tri-Colour Ink Cartridge Multipack (C2P05AE / C2P07AE),53.39,,,SKIP,,,supplier is out of stock
 MY001099,Compatible Konica Minolta TN321K Black Toner Cartridge (A33K150),38.19,,,SKIP,,,supplier is out of stock
 MY001104,Compatible HP 301XL High Capacity Colour Ink Cartridge (CH564EE),22.95,,,SKIP,,,supplier is out of stock
@@ -366,8 +375,6 @@ MY001053,Remanufactured Lexmark 802HY High Capacity Yellow Toner Cartridge (80C2
 MY000349,Compatible Canon PG-545XL High Capacity Black Ink Cartridge (8286B001),23.79,23.79,0.0,NO CHANGE,,,
 MY000342,Compatible Canon EP-27 Black Toner Cartridge (8489A002AA),19.39,19.39,0.0,NO CHANGE,,,
 MY000334,Compatible Canon 737 Black Toner Cartridge (9435B002),16.95,16.95,0.0,NO CHANGE,,,
-MY000730,Compatible Konica Minolta TN512Y Yellow Toner Cartridge (A33K252),61.19,61.19,0.0,NO CHANGE,,,
-MY000721,Compatible Konica Minolta TN324Y Yellow Toner Cartridge (A8DA250),53.89,53.89,0.0,NO CHANGE,,,
 MY000409,Compatible Epson S050166 High Capacity Black Toner Cartridge (C13S050166),29.69,29.69,0.0,NO CHANGE,,,
 MY000412,Compatible Epson S050611 High Capacity Yellow Toner Cartridge (C13S050611),15.95,15.95,0.0,NO CHANGE,,,
 MY000415,Compatible Epson S050614 High Capacity Black Toner Cartridge (C13S050614),15.95,15.95,0.0,NO CHANGE,,,
@@ -808,12 +815,6 @@ MY000291,Compatible Canon 075HC High Capacity Cyan Toner Cartridge (6368C002),83
 MY001051,Remanufactured Lexmark 802HC High Capacity Cyan Toner Cartridge (80C2HC0),68.95,68.95,0.0,NO CHANGE,,,
 MY001052,Remanufactured Lexmark 802HM High Capacity Magenta Toner Cartridge (80C2HM0),68.95,68.95,0.0,NO CHANGE,,,
 MY000337,Compatible Canon CL-546XL Colour High Capacity Ink Cartridge (8288B001),24.95,24.95,0.0,NO CHANGE,,,
-MY000729,Compatible Konica Minolta TN512M Magenta Toner Cartridge (A33K352),60.95,60.95,0.0,NO CHANGE,,,
-MY000727,Compatible Konica Minolta TN512C Cyan Toner Cartridge (A33K452),61.29,61.29,0.0,NO CHANGE,,,
-MY000720,Compatible Konica Minolta TN324M Magenta Toner Cartridge (A8DA350),53.59,53.59,0.0,NO CHANGE,,,
-MY000718,Compatible Konica Minolta TN324C Cyan Toner Cartridge (A8DA450),53.69,53.69,0.0,NO CHANGE,,,
-MY000724,Compatible Konica Minolta TN328M Magenta Toner Cartridge (AAV8350),74.95,74.95,0.0,NO CHANGE,,,
-MY000722,Compatible Konica Minolta TN328C Cyan Toner Cartridge (AAV8450),74.89,74.89,0.0,NO CHANGE,,,
 MY000413,Compatible Epson S050612 High Capacity Magenta Toner Cartridge (C13S050612),15.95,15.95,0.0,NO CHANGE,,,
 MY000414,Compatible Epson S050613 High Capacity Cyan Toner Cartridge (C13S050613),15.95,15.95,0.0,NO CHANGE,,,
 MY000417,Compatible Epson S050628 Magenta Toner Cartridge (C13S050628),15.95,15.95,0.0,NO CHANGE,,,
@@ -1082,7 +1083,6 @@ MY000513,Compatible HP 212A CMYK 4 Colour Toner Cartridge Multipack (W2120A/ W21
 MY000528,Compatible HP 216A CMYK 4 Colour Toner Cartridge Multipack (W2410A/ W2411A/ W2413A/ W2412A),86.79,86.79,0.0,NO CHANGE,,,
 MY000801,Compatible Kyocera TK-5380 CMYK Toner Cartridges Multipack (1T02Z00NL0/ 1T02Z0CNL0/ 1T02Z0BNL0/ 1T02Z0ANL0),158.00,158.00,0.0,NO CHANGE,,,
 MY000033,Compatible Brother LC-527XL High Capacity CMYK 4 Colour Ink Cartridge Multipack (LC527XLBK/ LC527XLC/ LC527XLM/ LC527XLY),146.00,146.00,0.0,NO CHANGE,,,
-MY000023,Compatible Brother LC-422XL High Capacity CMYK 4 Colour Ink Cartridge Multipack (LC422XLBK/ LC422XLC/ LC422XLM/ LC422XLY),40.09,40.09,0.0,NO CHANGE,,,
 MY000039,Compatible Brother LC421XL High Capacity CMYK 4 Colour Ink Cartridge Multipack (LC421XLBK/ LC421XLC/ LC421XLM/ LC421XLY),34.39,34.39,0.0,NO CHANGE,,,
 MY000043,Compatible Brother LC424 CMYK 4 Colour Ink Cartridge Multipack (LC424BK/ LC424C/ LC424M/ LC424Y),47.09,47.09,0.0,NO CHANGE,,,
 MY000028,Compatible Brother LC-521 CMYK 4 Colour Ink Cartridge Multipack (LC521BK/ LC521C/ LC521M/ LC521Y),71.39,71.39,0.0,NO CHANGE,,,
