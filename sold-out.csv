@@ -1,4 +1,15 @@
 ﻿SKU,Product,Status,Since,Could come back with (type in Shopify)
+MY003121,Compatible Epson T052 Colour Ink Cartridge (C13T05204010),Sold out (supplier code missing or out of stock),2026-11-17,Badger: IJ-T052 (stock 55)
+MY005406,Compatible Brother DR-1150 Black Drum Unit (DR1150),Already sold out,,Badger: IJ-T-DR1150 (stock 14)
+MY004347,Compatible Brother DR-230CL CMY Pack Drum Unit (DR230CL),Already sold out,,Badger: IJ-T-DR230CL-BK (stock 15); Badger: IJ-T-DR230CL-C (stock 14); Badger: IJ-T-DR230CL-M (stock 13); Badger: IJ-T-DR230CL-Y (stock 12)
+MY002778,Compatible Konica Minolta DR-316K Black Drum Unit (AAV70RD),Already sold out,,Badger: IJ-T-DR316K (stock 3)
+MY002073,Compatible Lexmark 0012A7310 Black toner Cartridge (12A7310),Already sold out,,Badger: IJ-T-12A7310 (stock 38)
+MY002074,Compatible Lexmark 0012A8320 Black Toner Cartridge (12A8320),Already sold out,,Badger: IJ-T-12A8320 (stock 8)
+MY004417,Compatible OKI 42918925 Yellow Toner Cartridge,Already sold out,,Badger: IJ-T-42918925 (stock 9)
+MY004195,Compatible OKI 42918926 Magenta Toner Cartridge,Already sold out,,Badger: IJ-T-42918926 (stock 2)
+MY004604,Compatible OKI 42918928 Black Toner Cartridge,Already sold out,,Badger: IJ-T-42918928 (stock 12)
+MY004755,Compatible Xerox 006R04399 Black Toner Cartridge,Already sold out,,Badger: IJ-T-006R04399 (stock 2)
+MY004032,Compatible Xerox 006R04400 High Capacity Black Toner Cartridge,Already sold out,,Badger: IJ-T-006R04400 (stock 2)
 MY000062,Compatible Brother TN-2220 Extra High Capacity Black Toner Cartridge (TN2220XXL),Sold out (supplier code missing or out of stock),2026-11-03,
 MY000063,Compatible Brother TN-2220 Super High Capacity Black Toner Cartridge (TN2220XXXL),Sold out (supplier code missing or out of stock),2026-10-23,
 MY000113,Compatible Brother TN-3060 Extra High Capacity Black Toner Cartridge (TN3060XXL),Sold out (supplier code missing or out of stock),2026-10-20,
@@ -8,7 +19,6 @@ MY000170,Compatible Brother TN-7600 Extra High Capacity Black Toner Cartridge (T
 MY004809,Compatible Dell 90DC4 Imaging Drum (724-10492),Sold out (supplier code missing or out of stock),2026-11-17,
 MY003583,Compatible Epson T014 Colour Ink Cartridge (C13T014401),Sold out (supplier code missing or out of stock),2026-11-17,
 MY001964,Compatible Epson T0511 / T0520 Black & Tri-Colour Ink Cartridge Multipack (C13T05114010 / C13T05204010),Sold out (supplier code missing or out of stock),2026-11-17,
-MY003121,Compatible Epson T052 Colour Ink Cartridge (C13T05204010),Sold out (supplier code missing or out of stock),2026-11-17,Badger: IJ-T052 (stock 55)
 MY001097,Compatible HP 308 Colour Ink Cartridge (7FP20UE),Sold out (supplier code missing or out of stock),2026-11-17,
 MY001111,Compatible HP 308e High Capacity Black & HP 308 Tri-Colour Ink Cartridge Multipack (7FP22UE / 7FP20UE),Sold out (supplier code missing or out of stock),2026-11-17,
 MY001098,Compatible HP 308e High Capacity Black Ink Cartridge (7FP22UE),Sold out (supplier code missing or out of stock),2026-11-17,
@@ -25,8 +35,6 @@ MY004323,Compatible Xerox 006R01826 Magenta Toner Cartridge,Sold out (supplier c
 MY001492,Compatible Xerox 106R0350 CMYK 4 Colour Toner Cartridge Multipack (106R03500/ 106R03502/ 106R03503/ 106R03501),Sold out (supplier code missing or out of stock),2026-11-13,
 MY005027,Compatible Xerox 106R03502 Cyan Toner Cartridge,Sold out (supplier code missing or out of stock),2026-11-13,
 MY003505,Compatible Xerox 108R01121 Black Imaging Drum Unit,Sold out (supplier code missing or out of stock),2026-11-17,
-MY005406,Compatible Brother DR-1150 Black Drum Unit (DR1150),Already sold out,,Badger: IJ-T-DR1150 (stock 14)
-MY004347,Compatible Brother DR-230CL CMY Pack Drum Unit (DR230CL),Already sold out,,Badger: IJ-T-DR230CL-BK (stock 15); Badger: IJ-T-DR230CL-C (stock 14); Badger: IJ-T-DR230CL-M (stock 13); Badger: IJ-T-DR230CL-Y (stock 12)
 MY005187,Compatible Brother DR-4000 Black Drum Unit (DR4000),Already sold out,,
 MY005189,Compatible Brother DR-8000 Black Drum Unit (DR8000),Already sold out,,
 MY005460,Compatible Brother PC-401 Fax Roll (PC401),Already sold out,,
@@ -330,7 +338,6 @@ MY003006,Compatible Konica Minolta A03100H Black Imaging Unit,Already sold out,,
 MY002515,Compatible Konica Minolta A0FP021 Black Toner Cartridge,Already sold out,,
 MY002516,Compatible Konica Minolta A0FP022 High Capacity Black Toner Cartridge,Already sold out,,
 MY001223,Compatible Konica Minolta AA2JR70400 Fuser Unit (AA2JR70411 AA2JR70433),Already sold out,,
-MY002778,Compatible Konica Minolta DR-316K Black Drum Unit (AAV70RD),Already sold out,,Badger: IJ-T-DR316K (stock 3)
 MY001150,Compatible Konica Minolta MT205B Black Toner Cartridge 2 Pack (8937-755),Already sold out,,
 MY001322,Compatible Konica Minolta TN217 CMYK 4 Colour Toner Cartridge Multipack (ACVH150/ ACVH450/ ACVH350/ ACVH250),Already sold out,,
 MY002153,Compatible Konica Minolta TN217C Cyan Toner Cartridge (ACVH450),Already sold out,,
@@ -381,8 +388,6 @@ MY001602,Compatible Kyocera TK-8705Y Yellow Toner Cartridge (1T02K9ANL0),Already
 MY001342,Compatible Kyocera TK-880 CMYK 4 Colour Toner Cartridge Multipack (1T02KA0NL0/ 1T02KACNL0/ 1T02KABNL0/ 1T02KAANL0),Already sold out,,
 MY002612,Compatible Kyocera TK-880C Cyan Toner Cartridge (1T02KACNL0),Already sold out,,
 MY002323,Compatible Kyocera TK-880Y Yellow Toner Cartridge (1T02KAANL0),Already sold out,,
-MY002073,Compatible Lexmark 0012A7310 Black toner Cartridge (12A7310),Already sold out,,Badger: IJ-T-12A7310 (stock 38)
-MY002074,Compatible Lexmark 0012A8320 Black Toner Cartridge (12A8320),Already sold out,,Badger: IJ-T-12A8320 (stock 8)
 MY003943,Compatible Lexmark 12A7400 Black Toner Cartridge,Already sold out,,
 MY003944,Compatible Lexmark 12A7405 High Capacity Black Toner Cartridge,Already sold out,,
 MY003945,Compatible Lexmark 12A7415 High Capacity Black Toner Cartridge,Already sold out,,
@@ -489,9 +494,6 @@ MY004181,Compatible OKI 41514712 Black Imaging Drum Unit,Already sold out,,
 MY004832,Compatible OKI 41515211 Cyan Toner Cartridge,Already sold out,,
 MY004834,Compatible OKI 41963607 Cyan Toner Cartridge,Already sold out,,
 MY001631,Compatible OKI 4291892 CMYK 4 Colour Toner Cartridge Multipack (42918928/ 42918927/ 42918926/ 42918925),Already sold out,,
-MY004417,Compatible OKI 42918925 Yellow Toner Cartridge,Already sold out,,Badger: IJ-T-42918925 (stock 9)
-MY004195,Compatible OKI 42918926 Magenta Toner Cartridge,Already sold out,,Badger: IJ-T-42918926 (stock 2)
-MY004604,Compatible OKI 42918928 Black Toner Cartridge,Already sold out,,Badger: IJ-T-42918928 (stock 12)
 MY001788,Compatible OKI 433244 Extra High Capacity CMYK 4 Colour Toner Cartridge Multipack (43324424/ 43324423/ 43324422/ 43324421),Already sold out,,
 MY002237,Compatible OKI 43324408 Extra High Capacity Black Toner Cartridge (43324408XXL),Already sold out,,
 MY002083,Compatible OKI 43324421 Extra High Capacity Yellow Toner Cartridge (43324421XXL),Already sold out,,
@@ -627,8 +629,6 @@ MY001178,Compatible Xerox 006R0438 CMYK 4 Colour Toner Cartridge Multipack (006R
 MY004030,Compatible Xerox 006R04383 Black Toner Cartridge,Already sold out,,
 MY004244,Compatible Xerox 006R04384 Cyan Toner Cartridge,Already sold out,,
 MY003482,Compatible Xerox 006R04385 Magenta Toner Cartridge,Already sold out,,
-MY004755,Compatible Xerox 006R04399 Black Toner Cartridge,Already sold out,,Badger: IJ-T-006R04399 (stock 2)
-MY004032,Compatible Xerox 006R04400 High Capacity Black Toner Cartridge,Already sold out,,Badger: IJ-T-006R04400 (stock 2)
 MY001180,Compatible Xerox 006R0467 CMYK 4 Colour Toner Cartridge Multipack (006R04677/ 006R04678/ 006R04679/ 006R04680),Already sold out,,
 MY004033,Compatible Xerox 006R04677 Black Toner Cartridge,Already sold out,,
 MY004246,Compatible Xerox 006R04678 Cyan Toner Cartridge,Already sold out,,
