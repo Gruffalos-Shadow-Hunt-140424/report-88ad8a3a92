@@ -1,4 +1,9 @@
 ﻿SKU,Product,Old price,New price,Change %,Action,Special price: was,Special price ends,Note
+MY003396,Compatible Ricoh GC21KH High Capacity Black Gel Ink Cartridge (405536),17.95,18.95,5.6,CHANGE,,,
+MY003650,Compatible Ricoh GC21CH High Capacity Cyan Gel Ink Cartridge (405537),17.95,18.95,5.6,CHANGE,,,
+MY002952,Compatible Ricoh GC21MH High Capacity Magenta Gel Ink Cartridge (405538),17.95,18.95,5.6,CHANGE,,,
+MY003177,Compatible Ricoh GC21YH High Capacity Yellow Gel Ink Cartridge (405547),17.95,18.95,5.6,CHANGE,,,
+MY003010,Compatible Lexmark 34XL High Capacity Black Ink Cartridge (18C0034E),19.95,20.95,5.0,CHANGE,,,
 MY000113,Compatible Brother TN-3060 Extra High Capacity Black Toner Cartridge (TN3060XXL),24.95,,,SKIP,,,supplier is out of stock
 MY000115,Compatible Brother TN-3170 Extra High Capacity Black Toner Cartridge (TN3170XXL),24.95,,,SKIP,,,supplier is out of stock
 MY000133,Compatible Brother TN-3280 Extra High Capacity Black Toner Cartridge (TN3280XXL),24.95,,,SKIP,,,supplier is out of stock
@@ -530,7 +535,6 @@ MY003487,Compatible Xerox 006R04829 High Capacity Magenta Toner Cartridge,156.00
 MY003769,Compatible Xerox 006R04830 High Capacity Yellow Toner Cartridge,157.00,,,SKIP,,,supplier is out of stock
 MY004039,Compatible Xerox 006R04831 High Capacity Black Toner Cartridge,144.00,,,SKIP,,,supplier is out of stock
 MY004750,Compatible Xerox 006R01159 Black Toner Cartridge,42.39,,,SKIP,,,supplier is out of stock
-MY004051,Compatible Xerox 106R01395 High Capacity Black Toner Cartridge,56.95,,,SKIP,,,supplier is out of stock
 MY005033,Compatible Xerox 106R03764 Cyan Toner Cartridge,65.59,,,SKIP,,,supplier is out of stock
 MY004751,Compatible Xerox 006R01395 Black Toner Cartridge,77.29,,,SKIP,,,supplier is out of stock
 MY003505,Compatible Xerox 108R01121 Black Imaging Drum Unit,80.19,,,SKIP,,,supplier is out of stock
@@ -569,7 +573,6 @@ MY001173,Compatible Epson S05014 CMYK 4 Colour Toner Cartridge Multipack (C13S05
 MY001178,Compatible Xerox 006R0438 CMYK 4 Colour Toner Cartridge Multipack (006R04383/ 006R04384/ 006R04385/ 006R04386),337.00,,,SKIP,,,supplier is out of stock
 MY001180,Compatible Xerox 006R0467 CMYK 4 Colour Toner Cartridge Multipack (006R04677/ 006R04678/ 006R04679/ 006R04680),379.00,,,SKIP,,,supplier is out of stock
 MY001182,Compatible Xerox 006R0482 CMYK 4 Colour Toner Cartridge Multipack (006R04823/ 006R04820/ 006R04821/ 006R04822),343.00,,,SKIP,,,supplier is out of stock
-MY001189,Compatible Xerox 106R0139 High Capacity CMYK 4 Colour Toner Cartridge Multipack (106R01395/ 106R01392/ 106R01393/ 106R01394),248.00,,,SKIP,,,supplier is out of stock
 MY001213,Compatible Epson T46S 10 Colour Ink Cartridge Multipack (T46S1/ T46S2/ T46S3/ T46S4/ T46S5/ T46S6/ T46S7/ T46S8/ T46S9/ T46SD),431.00,,,SKIP,,,supplier is out of stock
 MY001220,Compatible Konica Minolta 893862 CMYK 4 Colour Toner Cartridge Multipack (8938621/ 8938624/ 8938623/ 8938622),302.00,,,SKIP,,,supplier is out of stock
 MY001239,Compatible Kyocera TK-8525 CMYK 4 Colour Toner Cartridge Multipack (1T02RM0NL0/ 1T02RMCNL0/ 1T02RMBNL0/ 1T02RMANL0),350.00,,,SKIP,,,supplier is out of stock
@@ -3495,7 +3498,6 @@ MY003009,Compatible Lexmark 26 High Capacity Colour Ink Cartridge (010N0026E),16
 MY002234,Compatible Lexmark 31 Photo Colour Ink Cartridge (18C0031E),16.95,16.95,0.0,NO CHANGE,,,
 MY003455,Compatible Lexmark 82 Black Ink Cartridge (18L0032E),16.95,16.95,0.0,NO CHANGE,,,
 MY003214,Compatible Lexmark 33 Colour Ink Cartridge (18CX033E),18.95,18.95,0.0,NO CHANGE,,,
-MY003010,Compatible Lexmark 34XL High Capacity Black Ink Cartridge (18C0034E),19.95,19.95,0.0,NO CHANGE,,,
 MY002830,Compatible Lexmark 35XL High Capacity Colour Ink Cartridge (18C0035E),19.95,19.95,0.0,NO CHANGE,,,
 MY003011,Compatible Lexmark 36XL High Capacity Black Ink Cartridge (18C2170E / 18C2190E),19.95,19.95,0.0,NO CHANGE,,,
 MY004308,Compatible Lexmark 36 Black Ink Cartridge (18C2130E),19.95,19.95,0.0,NO CHANGE,,,
@@ -4286,10 +4288,6 @@ MY003398,Compatible Ricoh GC41BK High Capacity Black Gel Ink Cartridge (405761),
 MY003886,Compatible Ricoh GC41C High Capacity Cyan Gel Ink Cartridge (405762),18.95,18.95,0.0,NO CHANGE,,,
 MY003179,Compatible Ricoh GC41M High Capacity Magenta Gel Ink Cartridge (405763),18.95,18.95,0.0,NO CHANGE,,,
 MY003399,Compatible Ricoh GC41Y High Capacity Yellow Gel Ink Cartridge (405764),18.95,18.95,0.0,NO CHANGE,,,
-MY003396,Compatible Ricoh GC21KH High Capacity Black Gel Ink Cartridge (405536),17.95,17.95,0.0,NO CHANGE,,,
-MY003650,Compatible Ricoh GC21CH High Capacity Cyan Gel Ink Cartridge (405537),17.95,17.95,0.0,NO CHANGE,,,
-MY002952,Compatible Ricoh GC21MH High Capacity Magenta Gel Ink Cartridge (405538),17.95,17.95,0.0,NO CHANGE,,,
-MY003177,Compatible Ricoh GC21YH High Capacity Yellow Gel Ink Cartridge (405547),17.95,17.95,0.0,NO CHANGE,,,
 MY003397,Compatible Ricoh GC31KH High Capacity Black Gel Ink Cartridge (405701),18.95,18.95,0.0,NO CHANGE,,,
 MY003651,Compatible Ricoh GC31CH High Capacity Cyan Gel Ink Cartridge (405706),18.95,18.95,0.0,NO CHANGE,,,
 MY002953,Compatible Ricoh GC31MH High Capacity Magenta Gel Ink Cartridge (405703),18.95,18.95,0.0,NO CHANGE,,,
@@ -4539,6 +4537,7 @@ MY004041,Compatible Xerox 106R00675 High Capacity Black Toner Cartridge,39.95,39
 MY004251,Compatible Xerox 106R00672 High Capacity Cyan Toner Cartridge,40.95,40.95,0.0,NO CHANGE,,,
 MY003489,Compatible Xerox 106R00673 High Capacity Magenta Toner Cartridge,40.95,40.95,0.0,NO CHANGE,,,
 MY003772,Compatible Xerox 106R00674 High Capacity Yellow Toner Cartridge,41.29,41.29,0.0,NO CHANGE,,,
+MY004051,Compatible Xerox 106R01395 High Capacity Black Toner Cartridge,56.95,56.95,0.0,NO CHANGE,,,will be put back on sale
 MY004259,Compatible Xerox 106R01392 High Capacity Cyan Toner Cartridge,66.09,66.09,0.0,NO CHANGE,,,
 MY003497,Compatible Xerox 106R01393 High Capacity Magenta Toner Cartridge,66.29,66.29,0.0,NO CHANGE,,,
 MY003780,Compatible Xerox 106R01394 High Capacity Yellow Toner Cartridge,65.95,65.95,0.0,NO CHANGE,,,
@@ -4864,6 +4863,7 @@ MY001185,Compatible Xerox 106R0068 High Capacity CMYK 4 Colour Toner Cartridge M
 MY001186,Compatible Xerox 106R0108 High Capacity CMYK 4 Colour Toner Cartridge Multipack (106R01085/ 106R01082/ 106R01083/ 106R01084),172.00,172.00,0.0,NO CHANGE,,,
 MY001187,Compatible Xerox 106R0114 High Capacity CMYK 4 Colour Toner Cartridge Multipack (106R01147/ 106R01144/ 106R01145/ 106R01146),148.00,148.00,0.0,NO CHANGE,,,
 MY001188,Compatible Xerox 106R0121 CMYK 4 Colour Toner Cartridge Multipack (106R01217/ 106R01214/ 106R01215/ 106R01216),136.00,136.00,0.0,NO CHANGE,,,
+MY001189,Compatible Xerox 106R0139 High Capacity CMYK 4 Colour Toner Cartridge Multipack (106R01395/ 106R01392/ 106R01393/ 106R01394),248.00,248.00,0.0,NO CHANGE,,,will be put back on sale
 MY001190,Compatible Xerox 106R0143 High Capacity CMYK 4 Colour Toner Cartridge Multipack (106R01439/ 106R01436/ 106R01437/ 106R01438),248.00,248.00,0.0,NO CHANGE,,,
 MY001192,Compatible Xerox 106R0146 High Capacity CMYK 4 Colour Toner Cartridge Multipack (106R01469/ 106R01466/ 106R01467/ 106R01468),125.00,125.00,0.0,NO CHANGE,,,
 MY001193,Compatible Xerox 106R0156 High Capacity CMYK 4 Colour Toner Cartridge Multipack (106R01569/ 106R01566/ 106R01567/ 106R01568),260.00,260.00,0.0,NO CHANGE,,,
