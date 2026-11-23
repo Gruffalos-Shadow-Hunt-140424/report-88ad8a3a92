@@ -1,10 +1,4 @@
 ﻿SKU,Product,Old price,New price,Change %,Action,Special price: was,Special price ends,Note
-MY000981,Compatible Xerox 106R02758 Yellow Toner Cartridge,17.95,15.95,-11.1,CHANGE,,,
-MY000943,Compatible Xerox 106R01331 Cyan Toner Cartridge,17.95,15.95,-11.1,CHANGE,,,
-MY000980,Compatible Xerox 106R02757 Magenta Toner Cartridge,17.95,15.95,-11.1,CHANGE,,,
-MY000497,Compatible HP 205A Black Toner Cartridge (CF530A),18.89,19.95,5.6,CHANGE,,,
-MY000962,Compatible Xerox 106R01595 High Capacity Magenta Toner Cartridge,17.95,16.95,-5.6,CHANGE,,,
-MY000498,Compatible HP 205A CMYK 4 Colour Toner Cartridge Multipack (CF530A /CF531A /CF533A /CF532A),70.89,71.95,1.5,CHANGE,,,
 MY000113,Compatible Brother TN-3060 Extra High Capacity Black Toner Cartridge (TN3060XXL),24.95,,,SKIP,,,supplier is out of stock
 MY000115,Compatible Brother TN-3170 Extra High Capacity Black Toner Cartridge (TN3170XXL),24.95,,,SKIP,,,supplier is out of stock
 MY000133,Compatible Brother TN-3280 Extra High Capacity Black Toner Cartridge (TN3280XXL),24.95,,,SKIP,,,supplier is out of stock
@@ -276,6 +270,8 @@ MY004000,Compatible Lexmark W84020H Black Toner Cartridge,38.95,,,SKIP,,,supplie
 MY003960,Compatible Lexmark 24B6889 Extra High Capacity Black Toner Cartridge,188.00,,,SKIP,,,supplier is out of stock
 MY002081,Compatible Lexmark X644X11E Extra High Capacity Black Toner Cartridge (X644X21E),137.00,,,SKIP,,,supplier is out of stock
 MY003957,Compatible Lexmark 24B6011 Black Toner Cartridge,84.39,,,SKIP,,,supplier is out of stock
+MY004159,Compatible Lexmark 24B6008 Cyan Toner Cartridge,81.79,,,SKIP,,,supplier is out of stock; will be set to sold out
+MY003436,Compatible Lexmark 24B6009 Magenta Toner Cartridge,81.39,,,SKIP,,,supplier is out of stock; will be set to sold out
 MY003981,Compatible Lexmark B252X00 Extra High Capacity Black Toner Cartridge,173.00,,,SKIP,,,supplier is out of stock
 MY003982,Compatible Lexmark B282000 Black Toner Cartridge,139.00,,,SKIP,,,supplier is out of stock
 MY003983,Compatible Lexmark B282H00 High Capacity Black Toner Cartridge,166.00,,,SKIP,,,supplier is out of stock
@@ -556,6 +552,8 @@ MY004739,Compatible Sharp 2697SC Black Correctable Ribbon,18.95,,,SKIP,,,supplie
 MY002643,Compatible Canon WT-201 Waste Toner Container (FM0-0015 / 9549B002AA),38.09,,,SKIP,,,supplier is out of stock
 MY002563,Compatible Canon WT-204 Waste Toner Container (FM4-5696-010/ FM1-P094-010),44.19,,,SKIP,,,supplier is out of stock
 MY002981,Compatible Canon C-EXV29 Colour Drum Unit (2779B003BA),164.00,,,SKIP,,,supplier is out of stock
+MY004983,Compatible Olivetti B1249 Black Toner Cartridge,66.09,,,SKIP,,,supplier is out of stock; will be set to sold out
+MY005147,Compatible Olivetti B1252 Cyan Toner Cartridge,89.39,,,SKIP,,,supplier is out of stock; will be set to sold out
 MY004519,Compatible Olivetti B1251 Magenta Toner Cartridge,89.69,,,SKIP,,,supplier is out of stock
 MY004736,Compatible Olivetti B1250 Yellow Toner Cartridge,89.79,,,SKIP,,,supplier is out of stock
 MY004647,Compatible Xerox DEV310K Black Developer Unit,110.00,,,SKIP,,,supplier is out of stock
@@ -701,6 +699,7 @@ MY000974,Compatible Xerox 106R02232 High Capacity Black Toner Cartridge,17.95,17
 MY000975,Compatible Xerox 106R02306 High Capacity Black Toner Cartridge (106R02307),31.19,31.19,0.0,NO CHANGE,,,
 MY000976,Compatible Xerox 106R02311 High Capacity Black Toner Cartridge,27.29,27.29,0.0,NO CHANGE,,,
 MY000977,Compatible Xerox 106R02598 Black Toner Cartridge,24.19,24.19,0.0,NO CHANGE,,,
+MY000981,Compatible Xerox 106R02758 Yellow Toner Cartridge,15.95,15.95,0.0,NO CHANGE,,,
 MY000982,Compatible Xerox 106R02759 Black Toner Cartridge,15.95,15.95,0.0,NO CHANGE,,,
 MY000983,Compatible Xerox 106R02773 Black Toner Cartridge,21.39,21.39,0.0,NO CHANGE,,,
 MY000984,Compatible Xerox 106R02777 High Capacity Black Toner Cartridge,17.95,17.95,0.0,NO CHANGE,,,
@@ -989,6 +988,7 @@ MY000677,Compatible HP 656X High Capacity Black Toner Cartridge (CF460X),70.19,7
 MY000681,Compatible HP 656X High Capacity Yellow Toner Cartridge (CF462X),65.95,65.95,0.0,NO CHANGE,,,
 MY000682,Compatible HP 657X High Capacity Black Toner Cartridge (CF470X),66.09,66.09,0.0,NO CHANGE,,,
 MY000686,Compatible HP 657X High Capacity Yellow Toner Cartridge (CF472X),66.19,66.19,0.0,NO CHANGE,,,
+MY000497,Compatible HP 205A Black Toner Cartridge (CF530A),19.95,19.95,0.0,NO CHANGE,,,
 MY000501,Compatible HP 205A Yellow Toner Cartridge (CF532A),18.89,18.89,0.0,NO CHANGE,,,
 MY000487,Compatible HP 203A Black Toner Cartridge (CF540A),18.39,18.39,0.0,NO CHANGE,,,
 MY000492,Compatible HP 203X High Capacity Black Toner Cartridge (CF540X),20.39,20.39,0.0,NO CHANGE,,,
@@ -1259,17 +1259,20 @@ MY000935,Compatible Xerox 006R04393 High Capacity Magenta Toner Cartridge,98.69,
 MY000214,Compatible Canon 040H High Capacity Magenta Toner Cartridge (0457C001),38.89,38.89,0.0,NO CHANGE,,,
 MY000213,Compatible Canon 040H High Capacity Cyan Toner Cartridge (0459C001),39.29,39.29,0.0,NO CHANGE,,,
 MY000939,Compatible Xerox 106R01161 High Capacity Magenta Toner Cartridge,38.29,38.29,0.0,NO CHANGE,,,
+MY000943,Compatible Xerox 106R01331 Cyan Toner Cartridge,15.95,15.95,0.0,NO CHANGE,,,
 MY000944,Compatible Xerox 106R01332 Magenta Toner Cartridge,15.95,15.95,0.0,NO CHANGE,,,
 MY000951,Compatible Xerox 106R01452 Cyan Toner Cartridge,15.95,15.95,0.0,NO CHANGE,,,
 MY000952,Compatible Xerox 106R01453 Magenta Toner Cartridge,15.95,15.95,0.0,NO CHANGE,,,
 MY000955,Compatible Xerox 106R01477 Cyan Toner Cartridge,16.95,16.95,0.0,NO CHANGE,,,
 MY000956,Compatible Xerox 106R01478 Magenta Toner Cartridge,15.95,15.95,0.0,NO CHANGE,,,
 MY000961,Compatible Xerox 106R01594 High Capacity Cyan Toner Cartridge,16.95,16.95,0.0,NO CHANGE,,,
+MY000962,Compatible Xerox 106R01595 High Capacity Magenta Toner Cartridge,16.95,16.95,0.0,NO CHANGE,,,
 MY000966,Compatible Xerox 106R01627 Cyan Toner Cartridge,15.95,15.95,0.0,NO CHANGE,,,
 MY000967,Compatible Xerox 106R01628 Magenta Toner Cartridge,15.95,15.95,0.0,NO CHANGE,,,
 MY000971,Compatible Xerox 106R02229 High Capacity Cyan Toner Cartridge,17.95,17.95,0.0,NO CHANGE,,,
 MY000972,Compatible Xerox 106R02230 High Capacity Magenta Toner Cartridge,17.95,17.95,0.0,NO CHANGE,,,
 MY000979,Compatible Xerox 106R02756 Cyan Toner Cartridge,15.95,15.95,0.0,NO CHANGE,,,
+MY000980,Compatible Xerox 106R02757 Magenta Toner Cartridge,15.95,15.95,0.0,NO CHANGE,,,
 MY000985,Compatible Xerox 106R03473 Cyan Toner Cartridge,15.95,15.95,0.0,NO CHANGE,,,
 MY000986,Compatible Xerox 106R03474 Magenta Toner Cartridge,15.95,15.95,0.0,NO CHANGE,,,
 MY000992,Compatible Xerox 106R03690 Extra High Capacity Cyan Toner Cartridge,16.95,16.95,0.0,NO CHANGE,,,
@@ -1671,6 +1674,7 @@ MY000670,Compatible HP 654X / 654A CMYK 4 Colour Toner Cartridge Multipack (CF33
 MY000478,Compatible HP 201A CMYK 4 Colour Toner Cartridge Multipack (CF400A /CF401A /CF403A /CF402A),67.19,67.19,0.0,NO CHANGE,,,
 MY000605,Compatible HP 410A CMYK 4 Colour Toner Cartridge Multipack (CF410A/ CF411A/ CF413A/ CF412A),84.69,84.69,0.0,NO CHANGE,,,
 MY000673,Compatible HP 655A CMYK 4 Colour Toner Cartridge Multipack (CF450A /CF451A /CF453A /CF452A),197.00,197.00,0.0,NO CHANGE,,,
+MY000498,Compatible HP 205A CMYK 4 Colour Toner Cartridge Multipack (CF530A /CF531A /CF533A /CF532A),71.95,71.95,0.0,NO CHANGE,,,
 MY000488,Compatible HP 203A CMYK 4 Colour Toner Cartridge Multipack (CF540A /CF541A /CF543A /CF542A),67.39,67.39,0.0,NO CHANGE,,,
 MY000806,Compatible Kyocera TK-5430 CMYK 4 Colour Toner Cartridge Multipack (1T0C0A0NL1 /1T0C0ACNL1 /1T0C0ABNL1 /1T0C0AANL1),60.19,60.19,0.0,NO CHANGE,,,
 MY000833,Compatible Kyocera TK-580 CMYK 4 Colour Toner Cartridge Multipack (1T02KT0NL0/ 1T02KTCNL0/ 1T02KTBNL0/ 1T02KTANL0),77.59,77.59,0.0,NO CHANGE,,,
@@ -3340,8 +3344,6 @@ MY003743,Compatible Lexmark X950X2KG Extra High Capacity Black Toner Cartridge,5
 MY004005,Compatible Lexmark X950X2CG Extra High Capacity Cyan Toner Cartridge,90.79,90.79,0.0,NO CHANGE,,,
 MY003237,Compatible Lexmark X950X2MG Extra High Capacity Magenta Toner Cartridge,90.79,90.79,0.0,NO CHANGE,,,
 MY003477,Compatible Lexmark X950X2YG Extra High Capacity Yellow Toner Cartridge,90.69,90.69,0.0,NO CHANGE,,,
-MY004159,Compatible Lexmark 24B6008 Cyan Toner Cartridge,81.79,81.79,0.0,NO CHANGE,,,
-MY003436,Compatible Lexmark 24B6009 Magenta Toner Cartridge,81.39,81.39,0.0,NO CHANGE,,,
 MY003703,Compatible Lexmark 24B6010 Yellow Toner Cartridge,81.39,81.39,0.0,NO CHANGE,,,
 MY003979,Compatible Lexmark B232000 Black Toner Cartridge,85.69,85.69,0.0,NO CHANGE,,,
 MY003980,Compatible Lexmark B242H00 High Capacity Black Toner Cartridge,129.00,129.00,0.0,NO CHANGE,,,
@@ -4762,8 +4764,6 @@ MY002176,Compatible Konica Minolta TNP93C Cyan Toner Cartridge (AE1Y431),68.39,6
 MY001710,Compatible Konica Minolta TNP93M Magenta Toner Cartridge (AE1Y331),68.79,68.79,0.0,NO CHANGE,,,
 MY001878,Compatible Konica Minolta TNP93Y Yellow Toner Cartridge (AE1Y231),68.59,68.59,0.0,NO CHANGE,,,
 MY004979,Compatible Olivetti B1215 Black Toner Cartridge,108.00,108.00,0.0,NO CHANGE,,,
-MY004983,Compatible Olivetti B1249 Black Toner Cartridge,66.09,66.09,0.0,NO CHANGE,,,
-MY005147,Compatible Olivetti B1252 Cyan Toner Cartridge,89.39,89.39,0.0,NO CHANGE,,,
 MY003248,Compatible Canon BCI-3EBK Black Ink Cartridge (4479A002),15.95,15.95,0.0,NO CHANGE,,,
 MY004069,Compatible Canon BCI-6C Cyan Ink Cartridge (4706A002),15.95,15.95,0.0,NO CHANGE,,,
 MY003250,Compatible Canon BCI-6M Magenta Ink Cartridge (4707A002),15.95,15.95,0.0,NO CHANGE,,,
