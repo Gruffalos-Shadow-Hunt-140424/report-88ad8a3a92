@@ -1,4 +1,5 @@
 ﻿SKU,Product,Old price,New price,Change %,Action,Special price: was,Special price ends,Note
+MY004152,Compatible HP 981Y Extra High Capacity Magenta Ink Cartridge (L0R14A),70.95,84.95,19.7,CHANGE,,,
 MY000113,Compatible Brother TN-3060 Extra High Capacity Black Toner Cartridge (TN3060XXL),24.95,,,SKIP,,,supplier is out of stock
 MY000115,Compatible Brother TN-3170 Extra High Capacity Black Toner Cartridge (TN3170XXL),24.95,,,SKIP,,,supplier is out of stock
 MY000133,Compatible Brother TN-3280 Extra High Capacity Black Toner Cartridge (TN3280XXL),24.95,,,SKIP,,,supplier is out of stock
@@ -3036,7 +3037,6 @@ MY004151,Compatible HP 981X High Capacity Magenta Ink Cartridge (L0R10A),48.09,4
 MY004397,Compatible HP 981X High Capacity Yellow Ink Cartridge (L0R11A),48.29,48.29,0.0,NO CHANGE,,,
 MY004587,Compatible HP 981X High Capacity Black Ink Cartridge (L0R12A),55.95,55.95,0.0,NO CHANGE,,,
 MY004828,Compatible HP 981Y Extra High Capacity Cyan Ink Cartridge (L0R13A),66.59,66.59,0.0,NO CHANGE,,,
-MY004152,Compatible HP 981Y Extra High Capacity Magenta Ink Cartridge (L0R14A),70.95,70.95,0.0,NO CHANGE,,,
 MY004398,Compatible HP 981Y Extra High Capacity Yellow Ink Cartridge (L0R15A),66.69,66.69,0.0,NO CHANGE,,,
 MY004588,Compatible HP 981Y Extra High Capacity Black Ink Cartridge (L0R16A),70.89,70.89,0.0,NO CHANGE,,,
 MY004563,Compatible HP 25 Colour Ink Cartridge (51625AE),20.95,20.95,0.0,NO CHANGE,,,
