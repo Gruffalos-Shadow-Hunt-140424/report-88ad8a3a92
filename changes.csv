@@ -1,4 +1,6 @@
 ﻿SKU,Product,Old price,New price,Change %,Action,Special price: was,Special price ends,Note
+MY000569,Compatible HP 304XL High Capacity Black Ink Cartridge (N9K08AE),22.95,25.95,13.1,CHANGE,,,
+MY000571,Compatible HP 304XL High Capacity Black & Tri-Colour Ink Cartridge Multipack (N9K08AE / N9K07AE),35.39,36.95,4.4,CHANGE,,,
 MY001048,Compatible Lexmark 58D2U00 Ultra High Capacity Black Toner Cartridge,256.00,,,SKIP,,,supplier is out of stock
 MY000113,Compatible Brother TN-3060 Extra High Capacity Black Toner Cartridge (TN3060XXL),24.95,,,SKIP,,,supplier is out of stock
 MY000115,Compatible Brother TN-3170 Extra High Capacity Black Toner Cartridge (TN3170XXL),24.95,,,SKIP,,,supplier is out of stock
@@ -536,6 +538,7 @@ MY003769,Compatible Xerox 006R04830 High Capacity Yellow Toner Cartridge,157.00,
 MY004039,Compatible Xerox 006R04831 High Capacity Black Toner Cartridge,144.00,,,SKIP,,,supplier is out of stock
 MY004750,Compatible Xerox 006R01159 Black Toner Cartridge,42.39,,,SKIP,,,supplier is out of stock
 MY005033,Compatible Xerox 106R03764 Cyan Toner Cartridge,65.59,,,SKIP,,,supplier is out of stock
+MY004790,Compatible Xerox 106R03737 Extra High Capacity Black Toner Cartridge,74.95,,,SKIP,,,supplier is out of stock; will be set to sold out
 MY004751,Compatible Xerox 006R01395 Black Toner Cartridge,77.29,,,SKIP,,,supplier is out of stock
 MY003505,Compatible Xerox 108R01121 Black Imaging Drum Unit,80.19,,,SKIP,,,supplier is out of stock
 MY003504,Compatible Xerox 108R00650 Black Imaging Drum Unit,105.00,,,SKIP,,,supplier is out of stock
@@ -619,6 +622,7 @@ MY001522,Compatible Samsung CLP-660A CMYK 4 Colour Toner Cartridge Multipack (ST
 MY001523,Compatible Samsung CLP-660B High Capacity CMYK 4 Colour Toner Cartridge Multipack (ST906A/ ST885A/ ST924A/ ST959A),208.00,,,SKIP,,,supplier is out of stock
 MY001536,Compatible Canon PFI-030 5 Colour Ink Cartridge Multipack (3488C001/ 3489C001/ 3490C001/ 3491C001/ 3492C001),261.00,,,SKIP,,,supplier is out of stock
 MY001547,Compatible Canon PFI-310 5 Colour Ink Cartridge Multipack (2358C001/ 2359C001/ 2360C001/ 2361C001/ 2362C001),620.00,,,SKIP,,,supplier is out of stock
+MY001578,Compatible Xerox 106R037 Extra High Capacity CMYK 4 Colour Toner Cartridge Multipack (106R03737/ 106R03740/ 106R03739/ 106R03738),256.00,,,SKIP,,,supplier is out of stock; will be set to sold out
 MY001590,Compatible HP 745 High Capacity 6 Colour Ink Cartridge Multipack (F9K05A/ F9K04A/ F9K03A/ F9K01A/ F9K02A/ F9K06A),670.00,,,SKIP,,,supplier is out of stock
 MY001603,Compatible Lexmark 12N07 CMYK 4 Colour Toner Cartridge Multipack (12N0770/ 12N0769/ 12N0768/ 12N0771),554.00,,,SKIP,,,supplier is out of stock
 MY001605,Compatible Lexmark 20N2X Extra High Capacity CMYK 4 Colour Toner Cartridge Multipack (20N2XK0/ 20N2XC0/ 20N2XM0/ 20N2XY0),525.00,,,SKIP,,,supplier is out of stock
@@ -1034,7 +1038,6 @@ MY000037,Compatible Brother LC-527XLY High Capacity Yellow Ink Cartridge (LC527X
 MY000903,Compatible Samsung ML-1710D3 Black Toner Cartridge (ML-1710D3/ELS),22.79,22.79,0.0,NO CHANGE,,,
 MY000919,Compatible Samsung MLT-D204E High Capacity Black Toner Cartridge,20.09,20.09,0.0,NO CHANGE,,,
 MY000920,Compatible Samsung MLT-D204L Black Toner Cartridge,19.95,19.95,0.0,NO CHANGE,,,
-MY000569,Compatible HP 304XL High Capacity Black Ink Cartridge (N9K08AE),22.95,22.95,0.0,NO CHANGE,,,
 MY000601,Compatible HP 38A Black Toner Cartridge (Q1338A),40.39,40.39,0.0,NO CHANGE,,,
 MY000602,Compatible HP 38X High Capacity Black Toner Cartridge (Q1338X),36.39,36.39,0.0,NO CHANGE,,,
 MY000603,Compatible HP 39A Black Toner Cartridge (Q1339A),40.69,40.69,0.0,NO CHANGE,,,
@@ -1717,7 +1720,6 @@ MY000352,Compatible Canon PG-560XL / CL-561XL High Capacity Black & Tri-Colour I
 MY000354,Compatible Canon PG-575XL / CL-576XL High Capacity Black & Tri-Colour Ink Cartridge Multipack (5437C001 / 5441C001),52.95,52.95,0.0,NO CHANGE,,,
 MY000560,Compatible HP 302XL High Capacity Black & Tri-Colour Ink Cartridge Multipack (F6U68AE / F6U67AE),36.09,36.09,0.0,NO CHANGE,,,
 MY000563,Compatible HP 303XL High Capacity Black & Tri-Colour Ink Cartridge Multipack (T6N04AE / T6N03AE),51.69,51.69,0.0,NO CHANGE,,,
-MY000571,Compatible HP 304XL High Capacity Black & Tri-Colour Ink Cartridge Multipack (N9K08AE / N9K07AE),35.39,35.39,0.0,NO CHANGE,,,
 MY000580,Compatible HP 305XL High Capacity Black & Tri-Colour Ink Cartridge Multipack (3YM62AE / 3YM63AE),44.59,44.59,0.0,NO CHANGE,,,
 MY000654,Compatible HP 62XL High Capacity Black & Tri-Colour Ink Cartridge Multipack (C2P05AE / C2P07AE),53.39,53.39,0.0,NO CHANGE,,,
 MY001093,Compatible Konica Minolta TN514K Black Toner Cartridge (A9E8150 / A9E81D0),64.39,64.39,0.0,NO CHANGE,,,
@@ -4582,7 +4584,6 @@ MY004791,Compatible Xerox 106R03741 High Capacity Black Toner Cartridge,38.39,38
 MY005031,Compatible Xerox 106R03744 High Capacity Cyan Toner Cartridge,39.89,39.89,0.0,NO CHANGE,,,
 MY004336,Compatible Xerox 106R03743 High Capacity Magenta Toner Cartridge,40.09,40.09,0.0,NO CHANGE,,,
 MY004550,Compatible Xerox 106R03742 High Capacity Yellow Toner Cartridge,40.29,40.29,0.0,NO CHANGE,,,
-MY004790,Compatible Xerox 106R03737 Extra High Capacity Black Toner Cartridge,74.95,74.95,0.0,NO CHANGE,,,
 MY005030,Compatible Xerox 106R03740 Extra High Capacity Cyan Toner Cartridge,62.69,62.69,0.0,NO CHANGE,,,
 MY004335,Compatible Xerox 106R03739 Extra High Capacity Magenta Toner Cartridge,62.69,62.69,0.0,NO CHANGE,,,
 MY004549,Compatible Xerox 106R03738 Extra High Capacity Yellow Toner Cartridge,62.59,62.59,0.0,NO CHANGE,,,
@@ -5075,7 +5076,6 @@ MY001572,Compatible Ricoh 842374 High Capacity CMYK 4 Colour Toner Cartridge Mul
 MY001573,Compatible Ricoh GC41 High Capacity CMYK 4 Colour Gel Ink Cartridge Multipack (405761/ 405762/ 405763/ 405764),56.29,56.29,0.0,NO CHANGE,,,
 MY001576,Compatible Xerox 106R015 CMYK 4 Colour Toner Cartridge Multipack (106R01506/ 106R01503/ 106R01504/ 106R01505),151.00,151.00,0.0,NO CHANGE,,,
 MY001577,Compatible Xerox 106R035 Extra High Capacity CMYK 4 Colour Toner Cartridge Multipack (106R03528/ 106R03530/ 106R03531/ 106R03529),108.00,108.00,0.0,NO CHANGE,,,
-MY001578,Compatible Xerox 106R037 Extra High Capacity CMYK 4 Colour Toner Cartridge Multipack (106R03737/ 106R03740/ 106R03739/ 106R03738),256.00,256.00,0.0,NO CHANGE,,,
 MY001579,Compatible Xerox 106R037 High Capacity CMYK 4 Colour Toner Cartridge Multipack (106R03757/ 106R03760/ 106R03759/ 106R03758),160.00,160.00,0.0,NO CHANGE,,,
 MY001580,Compatible Xerox 106R038 CMYK 4 Colour Toner Cartridge Multipack (106R03859/ 106R03860/ 106R03861/ 106R03862),77.09,77.09,0.0,NO CHANGE,,,
 MY001581,Compatible Xerox 106R040 CMYK 4 Colour Toner Cartridge Multipack (106R04041/ 106R04038/ 106R04039/ 106R04040),186.00,186.00,0.0,NO CHANGE,,,
